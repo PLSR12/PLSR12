@@ -12,4 +12,4 @@ Hi, I'm Pedro :D
 
 😄 Pronouns: He/His
 
-![PLSR12 GitHub stats](https://github-readme-stats.vercel.app/api?username=PLSR12)](https://github.com/PLSR12/github-readme-stats)
+![PLSR12 GitHub stats](https://github-readme-stats.vercel.app/api?username=PLSR12)]
