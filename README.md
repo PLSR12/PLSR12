@@ -3,12 +3,13 @@
 
 :computer: I'm Junior Developer
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I’m from Rio de Janeiro, Brazil.
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: 2021 Goals: Create new projects and get my first job
 
+:mailbox: Send me a Email
  
 
 ## About me
