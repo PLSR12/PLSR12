@@ -1,3 +1,7 @@
+## Hey World!!! I'm a Pedro  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+
+
+
 :computer: I'm Junior Developer
 
 :house_with_garden: I’m from Brazil.
@@ -24,8 +28,7 @@
 ----------------------------------------------------------------------------------
 ## Language and tools
 
-![PLSR12 GitHub stats](https://github-readme-stats.vercel.app/api?username=PLSR12)]
+![PLSR12 GitHub stats](https://github-readme-stats.vercel.app/api?username=PLSR12)
 
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 
