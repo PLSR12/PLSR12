@@ -1,5 +1,4 @@
-## Hey World!!! I'm a Pedro  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
-
+## Hey World, I'm a Pedro  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 
 :computer: I'm Junior Developer
@@ -21,14 +20,14 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/P3DR0_45?t=sXyEsPqjmDq8na22wPQSLw&s=08)](https://twitter.com/P3DR0_45?t=sXyEsPqjmDq8na22wPQSLw&s=08)
 
 
-- Thanks for visiting.
-
-- Enjoy it!! o/
-
 ----------------------------------------------------------------------------------
 ## Language and tools
 
 ![PLSR12 GitHub stats](https://github-readme-stats.vercel.app/api?username=PLSR12)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/username=PLSR12)
+
+
 
 
 
