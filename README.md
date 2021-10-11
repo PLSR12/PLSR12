@@ -8,11 +8,9 @@
 :books: I’m currently learning everything.
 
 :outbox_tray: 2021 Goals: Create new projects and get my first job
-
-:mailbox: Send me a Email
  
 
-## About me
+## Contact me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/PLSR12)
 
