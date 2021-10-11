@@ -1,4 +1,4 @@
- Hi I'm Pedro :D
+ Hi, I'm Pedro :D
 
 
 - 🌱 I’m currently learning JavaScript
