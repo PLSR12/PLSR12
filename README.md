@@ -11,3 +11,5 @@ Hi, I'm Pedro :D
 💬 Ask me about technology
 
 😄 Pronouns: He/His
+
+![PLSR12 GitHub stats](https://github-readme-stats.vercel.app/api?username=PLSR12)](https://github.com/PLSR12/github-readme-stats)
