@@ -25,7 +25,7 @@
 
 ![PLSR12 GitHub stats](https://github-readme-stats.vercel.app/api?username=PLSR12)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/username=PLSR12)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/username-PLSR12&layout-compact)](https://github.com/PLSR12/github-readine-stata)
 
 
 
