@@ -1,7 +1,7 @@
 ## Hey World, I'm a Pedro  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 
-:computer: I'm Junior Developer
+:computer: I'm Developer Front-end.
 
 :house_with_garden: I’m from Rio de Janeiro, Brazil.
 
