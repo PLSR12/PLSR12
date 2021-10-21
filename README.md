@@ -10,7 +10,7 @@
 :outbox_tray: 2021 Goals: Create new projects and get my first job
  
 
-## Contact me
+## Connect with me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/PLSR12)
 
@@ -21,6 +21,13 @@
 
 ----------------------------------------------------------------------------------
 ## Language and tools
+
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![NodeJS](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=nodejs)
+
 
 ![PLSR12 GitHub stats](https://github-readme-stats.vercel.app/api?username=PLSR12)
 
