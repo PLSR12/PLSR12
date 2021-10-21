@@ -31,6 +31,9 @@
 
 ![PLSR12 GitHub stats](https://github-readme-stats.vercel.app/api?username=PLSR12)
 
+### Development Tools
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PLSR12&layout=compact)](https://github.com/PLSR12/github-readme-stats)
 
 
