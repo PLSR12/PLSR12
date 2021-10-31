@@ -5,9 +5,9 @@
 
 :house_with_garden: I’m from Rio de Janeiro, Brazil.
 
-:books: I’m currently learning everything.
+:books: I’m currently learning HTML, CSS, JAVASCRIPT
 
-:outbox_tray: 2021 Goals: Create new projects and get my first job
+:outbox_tray: 2021 Goals: Create new projects and get my first job.
  
 
 ## Connect with me
