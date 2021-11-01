@@ -26,7 +26,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![NodeJS](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=nodejs)
+  ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
 ![PLSR12 GitHub stats](https://github-readme-stats.vercel.app/api?username=PLSR12)
