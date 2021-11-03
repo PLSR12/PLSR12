@@ -16,6 +16,8 @@
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/P3DR0_45?t=sXyEsPqjmDq8na22wPQSLw&s=08)](https://twitter.com/P3DR0_45?t=sXyEsPqjmDq8na22wPQSLw&s=08)
 
+[![Gmail Badge](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white&link=https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWsvCftTSZsCjcLLCxKbNrXhlGLsxFXcbKmzBVkgclhdSZSBqGCtPSdtwTzmKshCvWnkCXnsB)]
+
 
 ----------------------------------------------------------------------------------
 ## Language and tools
