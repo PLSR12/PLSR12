@@ -16,7 +16,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/P3DR0_45?t=sXyEsPqjmDq8na22wPQSLw&s=08)](https://twitter.com/P3DR0_45?t=sXyEsPqjmDq8na22wPQSLw&s=08)
 
-![Gamil Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitelink="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox")
+
 
 
 ----------------------------------------------------------------------------------
