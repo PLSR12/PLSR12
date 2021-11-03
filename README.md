@@ -16,7 +16,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/P3DR0_45?t=sXyEsPqjmDq8na22wPQSLw&s=08)](https://twitter.com/P3DR0_45?t=sXyEsPqjmDq8na22wPQSLw&s=08)
 
-![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=mailto:pedrolucassantos7@gmail.com)
+![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
 ----------------------------------------------------------------------------------
