@@ -26,6 +26,9 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  
+  
+----------------------------------------------------------------------------------
 
 ### Development Tools
 
@@ -37,6 +40,9 @@
 ----------------------------------------------------------------------------------
 
 ![PLSR12 GitHub stats](https://github-readme-stats.vercel.app/api?username=PLSR12)
+
+
+----------------------------------------------------------------------------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PLSR12&layout=compact)](https://github.com/PLSR12/github-readme-stats)
 
