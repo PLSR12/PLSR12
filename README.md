@@ -16,6 +16,8 @@
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/P3DR0_45?t=sXyEsPqjmDq8na22wPQSLw&s=08)](https://twitter.com/P3DR0_45?t=sXyEsPqjmDq8na22wPQSLw&s=08)
 
+<a href = "mailto:pedrolucasdossantos7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 
 
 
