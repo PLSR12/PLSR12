@@ -14,7 +14,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-lucas-dos-santos-382450187/)](https://www.linkedin.com/in/pedro-lucas-dos-santos-382450187/)
 
-[![Gmail Bagde] <a href = "mailto:pedrolucasdossantos7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:pedrolucasdossantos7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 
@@ -28,9 +28,11 @@
   ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Development Tools
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ----------------------------------------------------------------------------------
 
@@ -39,7 +41,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PLSR12&layout=compact)](https://github.com/PLSR12/github-readme-stats)
 
 
-![Snake animation](https://github.com/PLSR12/PLSR12/blob/output/github-contribution-grid-snake.svg)
 
 
 
