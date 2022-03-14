@@ -1,8 +1,4 @@
-	
-
 ## Hey World, I'm Pedro  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
-
-https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{PLSR12}1212%2Fhit-counter
 
 :computer: I'm Developer FullStack
 
