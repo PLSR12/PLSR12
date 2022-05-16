@@ -1,12 +1,12 @@
 ## Hey World, I'm Pedro  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-:computer: I'm Developer FullStack
+:computer: I'm Developer FullStack at Burger King Brasil.
 
 :house_with_garden: I’m from Rio de Janeiro, Brazil.
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2022 Goals: Create new projects and get my first job.
+:outbox_tray: 2022 Goals: Create new projects and learn more
  
 
 ## Connect with me
