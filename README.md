@@ -7,15 +7,6 @@
 :books: I’m currently learning everything.
 
 :outbox_tray: 2022 Goals: Create new projects and learn more
- 
-
-## Connect with me
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-lucas-dos-santos/)](https://www.linkedin.com/in/pedro-lucas-dos-santos/)
-
-<a href = "mailto:pedrolucasdossantos7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-
 
 ----------------------------------------------------------------------------------
 ## Language and tools
@@ -50,7 +41,15 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PLSR12&hide_title=true&layout=compact&langs_count=7&theme=dark"/>
 </div><br>
  
+   ![Snake animation](https://github.com/PLSR12/PLSR12/blob/output/github-contribution-grid-snake.svg)
 
+ 
+
+## Connect with me
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-lucas-dos-santos/)](https://www.linkedin.com/in/pedro-lucas-dos-santos/)
+
+<a href = "mailto:pedrolucasdossantos7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 
