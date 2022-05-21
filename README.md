@@ -42,16 +42,15 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 
-----------------------------------------------------------------------------------
 
-![PLSR12 GitHub stats](https://github-readme-stats.vercel.app/api?username=PLSR12)
-
-
-----------------------------------------------------------------------------------
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PLSR12&layout=compact)](https://github.com/PLSR12/github-readme-stats)
-
-
+## Github stats:
+<div align="center">
+  <a href="https://github.com/PLSR12">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=PLSR12&hide_title=true&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?PLSR12&hide_title=true&layout=compact&langs_count=7&theme=dark"/>
+</div><br>
+  
+<img align="right" alt="Image of a young man looking to a laptop that is apparently showing codes on the screen. This image was designed by catalyststuff / Freepik" height="400" src="https://user-images.githubusercontent.com/97669160/166078648-1c075977-2f53-4de2-a17e-25204f556b8b.png"><br><br>
 
 
 
