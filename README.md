@@ -47,7 +47,7 @@
 <div align="center">
   <a href="https://github.com/PLSR12">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=PLSR12&hide_title=true&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?PLSR12&hide_title=true&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PLSR12&hide_title=true&layout=compact&langs_count=7&theme=dark"/>
 </div><br>
  
 
