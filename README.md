@@ -4,7 +4,7 @@
 
 :house_with_garden: I’m from Rio de Janeiro, Brazil.
 
-:books: I’m currently learning everything.
+:books: I’m currently Studying Bachelor's Degree in Computer Science and learning everything.
 
 :outbox_tray: 2022 Goals: Create new projects and learn more
 
