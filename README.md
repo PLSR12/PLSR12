@@ -1,4 +1,4 @@
-## Hey World, I'm Pedro  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+## Hello World, I'm Pedro  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 :computer: I'm Developer Full-Stack.
 
