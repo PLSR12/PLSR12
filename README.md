@@ -6,7 +6,7 @@
 
 :books: I'm currently Studying Bachelor's Degree in Computer Science and learning of everything a little.
 
-:outbox_tray: 2022 Goals: Create new projects and learn more.
+:outbox_tray: 2022 Goals: Create new projects,learn more and sharing knowledge.
 
 ----------------------------------------------------------------------------------
 ## Language and tools
