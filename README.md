@@ -1,12 +1,12 @@
 ## Hello World, I'm Pedro  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-:computer: I'm Developer Full-Stack.
+:computer: Full-Stack Developer passionate about building scalable and user-friendly solutions.
 
 :house_with_garden: I’m from Rio de Janeiro, Brazil.
 
-:books: I'm currently Studying Bachelor's Degree in Computer Science and learning of everything a little.
+:books:Currently pursuing a Bachelor’s Degree in Computer Science and always exploring new technologies.
 
-:outbox_tray: 2022 Goals: Create new projects,learn more and sharing knowledge.
+:outbox_tray: Goals: keep creating meaningful projects, learning continuously, and sharing knowledge with the community.
 
 ----------------------------------------------------------------------------------
 ## Language and tools
